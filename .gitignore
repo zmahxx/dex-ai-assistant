@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.output/
+release/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite*
+.DS_Store
+Thumbs.db
